@@ -1,0 +1,12 @@
+Package: rdots
+Type: Package
+Title: Set of functions for the basic spatial simulation of an epidemic in a moving population 
+Version: 0.1.0
+Author: Quentin Leclerc
+Maintainer: Quentin Leclerc <ql3114@ic.ac.uk>
+Description: Set of functions for the basic spatial simulation of an epidemic in a moving population
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
